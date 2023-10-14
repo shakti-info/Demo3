@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-14T19:17:04Z" name="login sanity" finished-at="2023-10-14T19:18:53Z" duration-ms="109733">
+    <groups>
+    </groups>
+    <test started-at="2023-10-14T19:17:04Z" name="Login Test" finished-at="2023-10-14T19:18:53Z" duration-ms="109733">
+      <class name="MU_Site1.MU_Site1.MULogin">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:MU_Site1.MU_Site1.MULogin@6443b128]" started-at="2023-10-15T00:47:04Z" name="beforeClass" finished-at="2023-10-15T00:47:04Z" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="test8()[pri:0, instance:MU_Site1.MU_Site1.MULogin@6443b128]" started-at="2023-10-15T00:47:04Z" name="test8" finished-at="2023-10-15T00:48:34Z" duration-ms="90193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method signature="test9()[pri:0, instance:MU_Site1.MU_Site1.MULogin@6443b128]" started-at="2023-10-15T00:48:34Z" name="test9" finished-at="2023-10-15T00:48:53Z" duration-ms="19372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:MU_Site1.MU_Site1.MULogin@6443b128]" started-at="2023-10-15T00:48:53Z" name="afterClass" finished-at="2023-10-15T00:48:53Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- MU_Site1.MU_Site1.MULogin -->
+    </test> <!-- Login Test -->
+  </suite> <!-- login sanity -->
+</testng-results>

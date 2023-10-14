@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Master Test Suit">
+  <test thread-count="5" name="Master Test">
+    <suite-files>
+      <suite-file path="C:\Users\Vallabhi Rana\eclipse-workspace\MU_Site1\src\test\java\MU_Site1\MU_Site1\content.xml"/>
+      <suite-file path="C:\Users\Vallabhi Rana\eclipse-workspace\MU_Site1\src\test\java\MU_Site1\MU_Site1\login.xml"/>
+    </suite-files>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

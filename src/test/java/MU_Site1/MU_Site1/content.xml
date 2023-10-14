@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="content sanity">
+  <test thread-count="5" name="Content Test">
+    <classes>
+      <class name="MU_Site1.MU_Site1.MUHome"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
