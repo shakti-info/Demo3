@@ -12,7 +12,7 @@ phasees:
        - cp index.html /var/www/html/
 post_build:
    commands:
-       - echo Configuring NGINX
+       - echo Configuring httpd
 artifects:
     files:
       - '**/*'
